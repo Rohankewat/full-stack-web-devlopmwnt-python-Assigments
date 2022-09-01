@@ -1,1 +1,0 @@
-print("\"Teacher's Day\"")     # Question :- 7

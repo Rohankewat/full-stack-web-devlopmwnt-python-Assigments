@@ -12,5 +12,5 @@
 x = 95
 
 from A1 import x as X
-# print(X)
-print(x)
+print(X)
+# print(x)
